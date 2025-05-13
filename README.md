@@ -1,4 +1,4 @@
 Chidinma :
-	create a branch named "feature-chidinma"
-	create an html file named "main.html"
-	Push your work
+	- create a branch named "feature-chidinma" => git branch feature-chidinma
+	- create an html file named "main.html"
+	- Push your work
